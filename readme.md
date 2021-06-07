@@ -1,1 +1,1 @@
-### A repo containing questions around oops+design
+### A repo containing questions and resources around oops+design
