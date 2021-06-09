@@ -1,2 +1,1 @@
-
-# # Resources followed to learn OOPS based design questions
+# Resources followed to learn OOPS based design questions
